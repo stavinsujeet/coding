@@ -1,7 +1,6 @@
 # coding
 include <stdio.h>
-/* Include other headers as needed */
-int main()
+
 {
   int i,limit,num,num2[100],digit,j,k,sum,num3,b,temp;
   scanf("%d",&limit);
@@ -26,6 +25,6 @@ int main()
     printf("%d\n",sum);
   }
 
-    /* Enter your code here. Read input from STDIN. Print output to STDOUT */
+  
     return 0;
 }
