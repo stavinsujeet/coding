@@ -22,7 +22,7 @@ include <stdio.h>
     {
       sum=sum*10+num2[k];
     }
-    printf("%d\n",sum);
+    printf("%d\n",sum);//print value
   }
 
   
